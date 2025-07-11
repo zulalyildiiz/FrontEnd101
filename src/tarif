@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-16">
+    <meta name="viewport" content="width=device-width" initial-state="1.0" >
+    <title>Havuçlu Kek Tarifi</title>
+</head>
+<body>
+    <header>
+        <h1 style="background-color: rgb(255, 238, 0); color: rgb(102, 10, 189);"> Havuçlu Kek Tarifi </h1>
+    </header>
+    <section>    
+        <h2>Malzemeler</h2>
+        <ul>
+            <li class="item0">3 Yumurta</li>
+            <li class="item1">1 sb Şeker</li>
+            <li class="item2">Yarım su bardağı sıvı yağ</li>
+            <li class="item3">1 su bardağı süt</li>
+            <li class="item4">2,5 su bardağı un</li>
+            <li class="item5">1 paket vanilya</li>
+            <li class="item6">1 paket kabartma tozu</li>
+            <li class="item7">3 adet havuç (küçük boyutta)</li>
+            <li class="item8">1 su bardağı çekilmiş ceviz</li>
+            <li class="item9">1 yemek kaşığı tarçın</li>
+        </ul>
+    </section>
+    <article>
+        <h2>Nasıl Yapılır?</h2>
+        <ol>
+            <li class="item">Havuçlu cevizli kek için öncelikle havuçlar yıkanıp soyularak rendelenir. Suyunu sıkmayı unutmayın!</li>
+            <li class="item">Derin bir kapta yumurta ve şeker mikser ile köpük köpük olana kadar iyice çırpılır.</li>
+            <li class="item">Süt ve sıvı yağ eklenerek karıştırılır.</li>
+            <li class="item">Un, kabartma tozu ve vanilya elenerek eklenir. Kıvamına göre un miktarını ayarlayın.</li>
+            <li class="item">Malzemeler bir kez daha mikserle karıştırılıp içerisine havuç, ceviz ve tarçın ilave edilir.</li>
+            <li class="item">Tahta bir kaşıkla son kez karıştırılır.</li>
+            <li class="item">Kullanılacak kek kabı yağlandıktan sonra karışım kaba alınır.</li>
+            <li class="item">170 derecede önceden ısıtılmış fırında yaklaşık 40 dakika pişirilir. İlk yarım saat fırının kapağını açmayınız.</li>
+            <li class="item">Fırından aldığımız keki kalıptan daha kolay çıkartmak için soğumaya bırakalım. Yeterince soğumadan çıkartmaya çalışırsanız kekiniz parçalanabilir. Soğuyan keki kalıptan rahatça çıkartalım.</li>
+        </ol>
+        <h3>Afiyet Olsun!</h3>
+    </article>
+    <footer>
+        <p>Havuçlu Cevizli Tarçınlı Kek Kaç Kalori?
+Orta büyüklükteki 1 dilim havuçlu cevizli tarçınlı kek yaklaşık olarak 426 kaloriye denk gelmektedir.</p>
+    </footer>
+</body>
