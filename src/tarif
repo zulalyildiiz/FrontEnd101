@@ -4,6 +4,13 @@
     <meta charset="UTF-16">
     <meta name="viewport" content="width=device-width" initial-state="1.0" >
     <title>Havuçlu Kek Tarifi</title>
+    <link rel="stylesheet" href="style.css"> 
+    <style>
+         h3 {
+        color:blue;
+    }
+    </style>
+   
 </head>
 <body>
     <header>
@@ -12,16 +19,16 @@
     <section>    
         <h2>Malzemeler</h2>
         <ul>
-            <li class="item0">3 Yumurta</li>
-            <li class="item1">1 sb Şeker</li>
-            <li class="item2">Yarım su bardağı sıvı yağ</li>
-            <li class="item3">1 su bardağı süt</li>
-            <li class="item4">2,5 su bardağı un</li>
-            <li class="item5">1 paket vanilya</li>
-            <li class="item6">1 paket kabartma tozu</li>
-            <li class="item7">3 adet havuç (küçük boyutta)</li>
-            <li class="item8">1 su bardağı çekilmiş ceviz</li>
-            <li class="item9">1 yemek kaşığı tarçın</li>
+            <li class="item">3 Yumurta</li>
+            <li class="item">1 sb Şeker</li>
+            <li class="item">Yarım su bardağı sıvı yağ</li>
+            <li class="item">1 su bardağı süt</li>
+            <li class="item">2,5 su bardağı un</li>
+            <li class="item">1 paket vanilya</li>
+            <li class="item">1 paket kabartma tozu</li>
+            <li class="item">3 adet havuç (küçük boyutta)</li>
+            <li class="item">1 su bardağı çekilmiş ceviz</li>
+            <li class="item">1 yemek kaşığı tarçın</li>
         </ul>
     </section>
     <article>
