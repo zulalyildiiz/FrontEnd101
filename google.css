@@ -1,0 +1,19 @@
+.pictureBox{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.grey-box{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(200, 196, 196);
+    text-align: center;
+}
+.trio-box{
+    width: 33%;
+    float: left;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
