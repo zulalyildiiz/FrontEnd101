@@ -10,6 +10,7 @@
     text-align: center;
 }
 .trio-box{
+    padding-top: 15px;
     width: 33%;
     float: left;
     height: 200px;
